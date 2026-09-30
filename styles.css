@@ -1,6 +1,6 @@
 :root{--orange:#ef8452;--deep:#6f2e1b;--cream:#fff2d9}
 *{box-sizing:border-box}
-html,body{margin:0;min-height:100%;background:#1d100c;scroll-behavior:smooth}
+html,body{margin:0;min-height:100%;background:#ef8452;scroll-behavior:smooth}
 html.is-locked,html.is-locked body{overflow:hidden;overscroll-behavior:none}
 body{font-family:"PingFang SC","Microsoft YaHei",sans-serif;color:#fff;overflow-x:hidden}
 button{font:inherit}.article{position:relative;width:min(100%,520px);margin:0 auto;overflow:hidden;background:#f8dfbd;box-shadow:0 0 80px rgba(0,0,0,.58)}
